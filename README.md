@@ -38,7 +38,7 @@ through encrypted communication, temporary peer groups, and offline-first tools.
 - Filters by location, cost, and therapy type
 - No ads, no rankings, no AI bias
 
-## Privacy & Safety by Design
+### Privacy & Safety by Design
 - End-to-end encryption (Libsodium)
 - Anonymous authentication
 - Auto-deletion of messages after 14 days
