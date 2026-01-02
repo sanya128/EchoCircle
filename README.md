@@ -44,18 +44,5 @@ through encrypted communication, temporary peer groups, and offline-first tools.
 - Auto-deletion of messages after 14 days
 - Offline-first access for critical resources
 - Zero behavioral tracking
-- 
----
-
-## Tech Stack (Proposed)
-
-| Layer | Technology |
-|-----|-----------|
-| Frontend | React Native / Flutter |
-| Backend | Node.js + Express |
-| Database | MongoDB + MySQL |
-| Encryption | Libsodium |
-| Auth | Firebase Anonymous Auth |
-| Offline Storage | Local Device + optional IPFS |
 
 ---
